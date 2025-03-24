@@ -1,2 +1,5 @@
 langchain
 pydantic
+langgraph
+langchain-community
+langchain-text-splitters
