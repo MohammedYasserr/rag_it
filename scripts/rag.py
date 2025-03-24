@@ -16,3 +16,8 @@ import bs4
 from langchain import hub
 from langchain.graphs import START,StateGraph
 from typing_extensions import List, TypedDict
+
+
+
+def load_document(path:str):
+    with open 
