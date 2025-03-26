@@ -20,4 +20,13 @@ from typing_extensions import List, TypedDict
 
 
 def load_document(path:str):
-    with open 
+    pass
+
+def indexing():
+    pass
+
+def split_doc():
+    pass
+
+def embed_doc():
+    pass
