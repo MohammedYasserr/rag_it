@@ -30,3 +30,13 @@ def split_doc():
 
 def embed_doc():
     pass
+
+def analyse_query():
+    pass
+
+def retrieve():
+    pass
+
+
+def generate_response():
+    pass
